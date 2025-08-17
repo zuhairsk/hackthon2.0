@@ -1,0 +1,4 @@
+[dotenv@17.2.1] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+Connected to in-memory MongoDB
+Server listening on 5050
+[0mGET /api/health [32m200[0m 1.348 ms - 11[0m
